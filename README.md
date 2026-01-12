@@ -2,7 +2,7 @@
  
  ## Welcome to My GitHub Profile!
  
- Hello! I'm Abhay, a passionate software engineer with a strong interest in FinTech.
+ Hello! I'm Abhay, a passionate software engineer with a strong interest in the FinTech industry.
  
  ### About Me
  
